@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body{
+            background:linear-gradient(black,white);
+            background-repeat: no-repeat;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .container{
+            display: flex;
+            gap: 2rem;
+            margin: 5%;
+        }
+        .right img{border-radius:10px;
+        }
+        .left h1{
+            color: black;
+            font-size: larger;
+            font-style: italic;
+        }
+        .left p{
+            color: black;
+            font-size: large;
+            font-style: italic;
+            text-align: center;
+            
+    
+        }
+        .left .counter{
+            gap:1rem;
+            display:flex;
+            margin-top: 10px;
+        }
+        .left .counter .box{
+            width:100px;
+            height:100px;
+            background-color: antiquewhite;
+            color: black;
+            border-radius: 5px;
+            padding: 5px;
+            text-align: center;
+            
+
+        }
+        @media only screen and (max-width:600px) {
+            .container{
+                flex-direction: column;
+                width: 100%;
+            }
+            .left{
+                width: 100%;
+            }
+            .timer{
+                width: 100%;
+            }
+        }
+    </style>
+    <body>
+            <div class="container">
+                <div class="right">
+                    <img src="iphone 15.png"
+                    width="400px" height="400px">
+                </div>
+               <div class="left">
+                 <div id="timer">
+                    <h1>IPHONE GIVEAWAY</h1>
+                    <b>Giveaway ends on Monday 6th of March 2025 
+                        This is a give away that ends on the 6th of march <br> ,dont you want to be among 
+                         the lucky few that get to go home  with a brand new iphone 15? <br>
+                        well dont waste time ,COME AND COLLECT YOUR BRAND NEW IPHONE 15 NOW!!!
+                    </b>
+                 </div>
+                  <div class="counter">
+                    <div class="box">
+                        <span>
+                            <p id="days">00</p>
+                            <p>days</p>
+                        </span>
+                    </div>
+                    <div class="box">
+                        <span>
+                            <p id="hours">00</p>
+                            <p>hours</p>
+                        </span>
+                    </div>
+                    <div class="box">
+                        <span>
+                            <p id="minutes">00</p>
+                            <p>minutes</p>
+                        </span>
+                    </div>
+                    <div class="box">
+                        <span>
+                            <p id="seconds">00</p>
+                            <p>seconds</p>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        
+    
+        <script>
+           var countdownDate = new Date("Mar 8,2024 00:00:00").getTime();
+           var x = setInterval(function(){
+           var now = new Date().getTime();
+           var distance = countdownDate - now;
+           var days= Math.floor(distance / (1000 * 60  *60 * 24));
+           var hours= Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+           var minutes= Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+           var seconds= Math.floor((distance % (1000 * 60)) / 1000);
+        
+           document.getElementById("days").innerHTML = days
+           document.getElementById("hours").innerHTML = hours
+           document.getElementById("minutes").innerHTML = minutes
+           document.getElementById("seconds").innerHTML = seconds
+            if (distance < 0){
+                clearInterval(x);
+
+                document.getelementById("demo").innerHTML = "Expired";
+            }
+         }, 1000);
+
+        </script>       
+    </body>
+</html>
