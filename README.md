@@ -3,7 +3,7 @@
 
 
 <!-- 🔠 Typing Animation Header -->
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=550&lines=Hi%2C+I'm+Soki+Victor+👋;Software+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder;Solving+Real-World+Problems+with+Tech;Engineer+with+Code%2C+Design+%26+Vision" />
 </p>
 
@@ -58,32 +58,8 @@
 ## 📌 Highlights
 
 - Completed “AI for Everyone” by Andrew Ng (Coursera)  
-- Built & deployed 6+ hardware/software projects from scratch
-<p align="center">
-  <!-- Harvard CS50 AI + Python -->
-  <img src="https://img.shields.io/badge/-Harvard%20CS50:AI%20&%20Python-red?style=for-the-badge&logo=harvard&logoColor=white" />
+- Built & deployed 6+ software projects from scratch
 
-  <!-- Flask Web App -->
-  <img src="https://img.shields.io/badge/-Flask%20Web%20Apps-black?style=for-the-badge&logo=flask&logoColor=white" />
-
-  <!-- Python CLI Grading System -->
-  <img src="https://img.shields.io/badge/-Python%20Result%20App-306998?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Git & GitHub -->
-  <img src="https://img.shields.io/badge/-Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- Chatbot in React + Flask -->
-  <img src="https://img.shields.io/badge/-Chatbot%20(React+Flask)-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-  <!-- VS Code Mastery -->
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-  <!-- Docker + Ubuntu Tools -->
-  <img src="https://img.shields.io/badge/-Ubuntu%20&%20Docker-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-  <!-- GitHub Achievements -->
-  <img src="https://img.shields.io/badge/-GitHub%20Achievements-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
  <p align="center">
   <em>"Innovation is seeing what everybody has seen and thinking what nobody has thought."</em><br/>
