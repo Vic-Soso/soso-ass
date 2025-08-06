@@ -9,7 +9,7 @@
 
 
 ## 🔗 Let's Connect:
-<p align="right">
+<p align="center">
   <!-- Gmail -->
   <a href="mailto:sokiamachree3@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" /></a>
 
