@@ -4,7 +4,7 @@
 
 <!-- 🔠 Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=550&lines=Hi%2C+I'm+Soki+👋;Software+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder;Solving+Real-World+Problems+with+Tech;Engineer+with+Code%2C+Design+%26+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=550&lines=Hi%2C+I'm+Soki+Victor+👋;Software+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder;Solving+Real-World+Problems+with+Tech;Engineer+with+Code%2C+Design+%26+Vision" />
 </p>
 
 
@@ -44,13 +44,13 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vic_soso&show_icons=true&theme=radical" alt="Soala's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vic_Soso&show_icons=true&theme=radical" alt="Vic_Soso's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic_soso&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic_Soso&layout=compact&theme=radical" alt="Most Used Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Vic_soso&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vic_Soso&theme=radical&border_radius=5" alt="GitHub Streak" />
     <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Vic_soso&theme=radical&no-frame=true&margin-w=10" width="80%" height = "40" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vic_Soso&theme=radical&no-frame=true&margin-w=10" width="80%" height = "40" />
 
 </p>
 
