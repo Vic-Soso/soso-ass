@@ -44,11 +44,11 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vic_Soso&show_icons=true&theme=radical" alt="Vic_Soso's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vic-Soso&show_icons=true&theme=radical" alt="Vic-Soso's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic_Soso&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Soso&layout=compact&theme=radical" alt="Most Used Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Vic_Soso&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vic-Soso&theme=radical&border_radius=5" alt="GitHub Streak" />
     <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Vic_Soso&theme=radical&no-frame=true&margin-w=10" width="80%" height = "40" />
 
