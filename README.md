@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Vic_Soso&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Vic-Soso&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 
@@ -50,7 +50,7 @@
   <br />
   <img src="https://streak-stats.demolab.com?user=Vic-Soso&theme=radical&border_radius=5" alt="GitHub Streak" />
     <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Vic_Soso&theme=radical&no-frame=true&margin-w=10" width="80%" height = "40" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vic-Soso&theme=radical&no-frame=true&margin-w=10" width="80%" height = "40" />
 
 </p>
 
